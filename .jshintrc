@@ -1,0 +1,25 @@
+{
+    "asi":true,
+    "eqnull":true,
+    "debug": true,
+    "strict": false,
+    "undef": true,
+    "eqeqeq":false,
+    "esnext":true,
+    "trailing":true,
+    "undef":true,
+    "evil":true,
+    "globalstrict":true,
+    "sub":true,
+    "node":true,
+    "devel": true,
+
+    "globals": {
+        "global" : true,
+        "require": true,
+        "module": true,
+        "$$": true,
+        "$": true,
+        "Backbone":true
+    }
+}
