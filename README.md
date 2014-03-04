@@ -1,4 +1,4 @@
-# MEAN Stack for www_codingshack_com
+# Main Stack for www.codingshack.com
 
 This project is the source tree for the 'coming soon' www.codingshack.com website.
 It's still in development. At the moment there isn't that much, only the basic project structure for the front-end (the client/ folder), along with basic project configurations. 
