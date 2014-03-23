@@ -1,4 +1,4 @@
-/*jshint devel:true, node:true, strict:false */
+/*jshint sub:true, devel:true, node:true, strict:false */
 /*global require:true */
 
 var express = require("express"),

@@ -7,13 +7,13 @@
     "eqeqeq":false,
     "esnext":true,
     "trailing":true,
-    "undef":true,
     "evil":true,
     "globalstrict":true,
     "sub":true,
     "node":true,
     "devel": true,
     "smarttabs":true,
+    "-W099": true,
 
     "globals": {
         "global" : true,
